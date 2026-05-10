@@ -40,6 +40,14 @@ Atualmente cursando o 2° período de Ciência da Computação na Universidade C
 #### 🤖 Inteligência Artificial
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
+| **Análise Crítica do Viés em Modelos de Classificação por IA** | Experimento prático realizado no Teachable Machine para demonstrar como um dataset reduzido e enviesado impede que a IA diferencie corretamente, resultando em classificações equivocadas. | [Ver Projeto](./analise-vies-ia/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Batalha de Modelos (XML)** | Comparativo de performance entre 7 LLMs utilizando Engenharia de Prompt estruturada em XML para criação de uma Single Page de RH. | [Ver Projeto](./rh-produtivo-ia/) |
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
 | **Gerador de QR Code com IA** | Reconstrução de um aplicativo web gerador de QR Code utilizando engenharia reversa da interface e desenvolvimento assistido por IA com Google AI Studio (Gemini), utilizando React, TypeScript, Tailwind CSS e Vite. | [Ver Projeto](./gerador-qrcode-ia/) |
 
 | Projeto | Descrição | Link |

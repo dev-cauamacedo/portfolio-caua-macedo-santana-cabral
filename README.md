@@ -41,13 +41,13 @@ Atualmente cursando o 2° período de Ciência da Computação na Universidade C
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](./automacao-excel-python/) |
+| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](automacao-excel-python) |
 
 #### 🤖 Inteligência Artificial
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
-| **Análise Crítica do Viés em Modelos de Classificação por IA** | Experimento prático realizado no Teachable Machine para demonstrar como um dataset reduzido e enviesado impede que a IA diferencie corretamente, resultando em classificações equivocadas. | [Ver Projeto](./analise-vies-ia/) |
-| **Batalha de Modelos (XML)** | Comparativo de performance entre 7 LLMs utilizando Engenharia de Prompt estruturada em XML para criação de uma Single Page de RH. | [Ver Projeto](./rh-produtivo-ia/) |
-| **Gerador de QR Code com IA** | Reconstrução de um aplicativo web gerador de QR Code utilizando engenharia reversa da interface e desenvolvimento assistido por IA com Google AI Studio (Gemini), utilizando React, TypeScript, Tailwind CSS e Vite. | [Ver Projeto](./gerador-qrcode-ia/) |
-| **Sistema de Gestão de Férias com IA** | Desenvolvimento de uma aplicação web de gestão de ferias utilizando Bubble.io e Inteligência Artificial, aplicando conceitos de modelagem de dados, workflows, regras de privacidade, responsividade e otimização de desempenho. | [Ver Projeto](./gestao-ferias-ia) |
+| **Análise Crítica do Viés em Modelos de Classificação por IA** | Experimento prático realizado no Teachable Machine para demonstrar como um dataset reduzido e enviesado impede que a IA diferencie corretamente, resultando em classificações equivocadas. | [Ver Projeto](analise-vies-ia) |
+| **Batalha de Modelos (XML)** | Comparativo de performance entre 7 LLMs utilizando Engenharia de Prompt estruturada em XML para criação de uma Single Page de RH. | [Ver Projeto](rh-produtivo-ia) |
+| **Gerador de QR Code com IA** | Reconstrução de um aplicativo web gerador de QR Code utilizando engenharia reversa da interface e desenvolvimento assistido por IA com Google AI Studio (Gemini), utilizando React, TypeScript, Tailwind CSS e Vite. | [Ver Projeto](gerador-qrcode-ia) |
+| **Sistema de Gestão de Férias com IA** | Desenvolvimento de uma aplicação web de gestão de ferias utilizando Bubble.io e Inteligência Artificial, aplicando conceitos de modelagem de dados, workflows, regras de privacidade, responsividade e otimização de desempenho. | [Ver Projeto](gestao-ferias-ia) |

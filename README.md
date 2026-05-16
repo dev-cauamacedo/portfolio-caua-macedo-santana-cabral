@@ -10,7 +10,40 @@
 
 ---
 
-@@ -47,7 +47,15 @@
+### 👨‍💻 Sobre
+Atualmente cursando o 2° período de Ciência da Computação na Universidade Cidade de São Paulo - UNICD. Sou apaixonado por resolver problemas através da tecnologia e possuo foco em automação de processos, desenvolvimento back-end e Inteligência Artificial aplicada.
+
+* **Habilidades Técnicas:** Python, SQL, Power BI, Excel.
+* **Habilidades Socioemocionais:** Trabalho em equipe, comunicação assertiva e pensamento crítico.
+* **Experiência/Projetos Relevantes:** Desenvolvi um projeto de automação de tarefas em Excel, criando um sistema que preenche automaticamente planilhas com as informações necessárias para importação de dados em lote no sistema.
+
+---
+
+### 🛠 Minhas Ferramentas Favoritas
+
+#### 💻 Linguagens e Tecnologias
+![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
+
+#### 🗄️ Banco de Dados
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+![SQL Server](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white)
+
+#### 🤖 Inteligência Artificial & Ciência de Dados
+![Google Gemini](https://img.shields.io/badge/google%20gemini-8E75B2?style=for-the-badge&logo=google%20gemini&logoColor=white)
+![Claude](https://img.shields.io/badge/Claude-D97757?style=for-the-badge&logo=claude&logoColor=white)
+![Grok](https://img.shields.io/badge/Grok-000000?style=for-the-badge&logo=x&logoColor=white)
+
+---
+
+### 📂 Portfólio de Projetos
+
+#### 🐍 Python e Automação
+
+| Projeto | Descrição | Link |
+| :--- | :--- | :---: |
+| **Automação Excel com Python** | Sistema desenvolvido em Python para automatizar preenchimento, tratamento e organização de planilhas Excel utilizadas em processos operacionais. | [Ver Projeto](automacao-excel-python) |
+
+#### 🤖 Inteligência Artificial
 
 | Projeto | Descrição | Link |
 | :--- | :--- | :---: |
@@ -26,10 +59,3 @@ Abaixo, a organização deste repositório para facilitar a navegação:
  
 - `root/`: Arquivo de apresentação principal.
 - `/projeto-nome/`: Pasta contendo o código-fonte, documentação e o README específico do projeto acadêmico.
-2. Acesse a pasta `/assets`.
-3. Visualize as imagens correspondentes às tentativas realizadas.
-4. Analise a evolução dos prompts e os resultados obtidos em cada refinamento.
-
----
-
-[Voltar ao início](https://github.com/dev-cauamacedo)
